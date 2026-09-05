@@ -1,12 +1,19 @@
-const CACHE = 'cih-study-v2';
+const CACHE = 'cih-study-v3';
 const APP_SHELL = ['./','./index.html','./mobile.css','./manifest.json'];
+const FSRS_URL = 'https://cdn.jsdelivr.net/npm/ts-fsrs@5.4.2/+esm';
 const FSRS_HOST = 'cdn.jsdelivr.net';
 const FSRS_PREFIX = '/npm/ts-fsrs@5.4.2/';
 
 self.addEventListener('install', event => {
-  event.waitUntil(
-    caches.open(CACHE).then(cache => cache.addAll(APP_SHELL)).then(() => self.skipWaiting())
-  );
+  event.waitUntil((async () => {
+    const cache = await caches.open(CACHE);
+    await cache.addAll(APP_SHELL);
+    try {
+      const response = await fetch(FSRS_URL, {mode:'cors'});
+      if (response.ok) await cache.put(FSRS_URL, response.clone());
+    } catch (_) {}
+    await self.skipWaiting();
+  })());
 });
 
 self.addEventListener('activate', event => {
