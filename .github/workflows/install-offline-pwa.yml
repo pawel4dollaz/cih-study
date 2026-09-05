@@ -1,0 +1,43 @@
+name: Install offline PWA support
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add PWA registration
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('index.html')
+          s = p.read_text(encoding='utf-8')
+          if 'offline-pwa-registration' in s:
+              raise SystemExit(0)
+          head_marker = '</head>'
+          head_patch = '''<link rel="manifest" href="manifest.json">\n<meta name="theme-color" content="#101114">\n<meta name="apple-mobile-web-app-capable" content="yes">\n<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">\n'''
+          if head_marker not in s:
+              raise SystemExit('Missing </head> marker')
+          s = s.replace(head_marker, head_patch + head_marker, 1)
+          body_marker = '</body>'
+          script = '''<script id="offline-pwa-registration">\n(function(){\n  if (!('serviceWorker' in navigator)) return;\n  navigator.serviceWorker.register('./sw.js').then(function(reg){\n    if (reg.waiting) reg.waiting.postMessage({type:'SKIP_WAITING'});\n  }).catch(function(){});\n})();\n</script>\n'''
+          if body_marker not in s:
+              raise SystemExit('Missing </body> marker')
+          s = s.replace(body_marker, script + body_marker, 1)
+          p.write_text(s, encoding='utf-8')
+          PY
+      - name: Commit PWA patch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add index.html
+          git diff --cached --quiet && exit 0
+          git commit -m 'Enable offline PWA'
+          git push
