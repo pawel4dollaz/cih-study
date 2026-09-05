@@ -34,6 +34,10 @@ details{margin-top:14px}.danger{color:#ff9a8f}
 @media(max-width:520px){main{padding:14px 12px}.front{font-size:22px}.ratings{grid-template-columns:repeat(2,1fr)}.card{min-height:340px;padding:18px}}
 </style>
 <link rel="stylesheet" href="mobile.css">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#101114">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
 <body>
 <main id="app">
@@ -298,6 +302,14 @@ document.addEventListener("keydown",e=>{
   if(revealed && /^[1-4]$/.test(e.key)) rate(Number(e.key));
 });
 renderStats(); renderCard(); initFSRS();
+</script>
+<script id="offline-pwa-registration">
+(function(){
+  if (!('serviceWorker' in navigator)) return;
+  navigator.serviceWorker.register('./sw.js').then(function(reg){
+    if (reg.waiting) reg.waiting.postMessage({type:'SKIP_WAITING'});
+  }).catch(function(){});
+})();
 </script>
 </body>
 </html>
