@@ -19,7 +19,8 @@ header>button{min-height:36px;padding:7px 11px}
 .controls .row:nth-child(2) button{min-height:34px;padding:6px 9px;font-size:12px;white-space:nowrap}
 .controls .small{display:none}
 .card{flex:1 1 auto;min-height:0;height:auto;padding:12px;border-radius:14px;overflow:hidden}
-.card>div:first-child{flex:1 1 auto;min-height:0;overflow:auto;display:block;-webkit-overflow-scrolling:touch}
+.card>div:first-child{flex:0 1 auto;min-height:0;overflow:visible;display:block}
+.card:has(#answer:not(.hidden))>div:first-child{flex:1 1 auto;overflow:auto;-webkit-overflow-scrolling:touch}
 .meta{font-size:10px;margin-bottom:8px}
 .front{font-size:19px;line-height:1.25;max-height:none;overflow:visible}
 .answer{font-size:14px;line-height:1.35;margin-top:10px;padding-top:10px;min-height:0;overflow:visible}
