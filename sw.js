@@ -1,4 +1,4 @@
-const CACHE = 'cih-study-v1';
+const CACHE = 'cih-study-v2';
 const APP_SHELL = ['./','./index.html','./mobile.css','./manifest.json'];
 const FSRS_HOST = 'cdn.jsdelivr.net';
 const FSRS_PREFIX = '/npm/ts-fsrs@5.4.2/';
@@ -35,18 +35,15 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  if (url.origin === self.location.origin) {
+  if (url.origin === self.location.origin && event.request.method === 'GET') {
     event.respondWith(
-      caches.match(event.request).then(cached => {
-        const network = fetch(event.request).then(response => {
-          if (response && response.ok && event.request.method === 'GET') {
-            const copy = response.clone();
-            caches.open(CACHE).then(cache => cache.put(event.request, copy));
-          }
-          return response;
-        }).catch(() => cached || caches.match('./index.html'));
-        return cached || network;
-      })
+      fetch(event.request).then(response => {
+        if (response && response.ok) {
+          const copy = response.clone();
+          caches.open(CACHE).then(cache => cache.put(event.request, copy));
+        }
+        return response;
+      }).catch(() => caches.match(event.request).then(cached => cached || caches.match('./index.html')))
     );
   }
 });
