@@ -1,0 +1,10 @@
+{
+  "name": "CIH FSRS Study Deck",
+  "short_name": "CIH Study",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "description": "601-card CIH study deck with local FSRS scheduling."
+}
