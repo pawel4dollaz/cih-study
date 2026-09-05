@@ -1,0 +1,724 @@
+﻿Front,Back,Tags
+What airflow is required through a 2.0 ft² opening at 100 fpm?,"Q=VA=(100)(2.0)=200 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What face velocity results from 1,500 cfm through 3.0 ft²?","V=Q/A=1,500/3.0=500 fpm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What area is required for 2,400 cfm at 400 fpm?","A=Q/V=2,400/400=6.0 ft².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If opening area doubles at constant airflow, what happens to velocity?","Velocity halves because V=Q/A.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What velocity pressure corresponds to 2,000 fpm under standard density?","VP=(V/4005)²=(2000/4005)²=0.249 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What velocity corresponds to 0.50 in. w.g. VP at standard density?,"V=4005√VP=2,832 fpm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What velocity results from VP=0.40 in. w.g. and density factor 1.10?,"V=4005√(VP/df)=2,417 fpm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What VP is required for 3,000 fpm when df=1?","VP=(3000/4005)²=0.561 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What airflow is required for a 0.75-ft² hood opening at 1,200 fpm?","Q=VA=1,200×0.75=900 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What face velocity is produced by 1,800 cfm through 1.5 ft²?","V=1,800/1.5=1,200 fpm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What airflow factor is needed to raise face velocity from 800 to 1,000 fpm at fixed area?","Q must increase by 1,000/800=1.25, or 25%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What hood entry loss occurs for Fh=0.25 and VPd=1.6 in. w.g.?,"Entry loss=Fh×VPd=0.40 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What hood entry loss occurs for Fh=0.75 and VPd=2.0 in. w.g.?,"Entry loss=1.50 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What VP corresponds to 3,500 fpm at df=1?","VP=(3500/4005)²=0.763 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What velocity corresponds to 1.00 in. w.g. VP at standard density?,"V=4,005 fpm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What Ce results from VP=0.64 and |SPh|=1.0?,"Ce=√(VP/|SPh|)=0.80.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What airflow is predicted by Q=4005Ce√(|SPh|/df)A for Ce=.80, SPh=1, df=1, A=2 ft²?","Q=6,408 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What airflow is predicted for Ce=.75, SPh=.50, df=1, A=1 ft²?","Q≈2,125 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What effective airflow results from Q=3,000 cfm and mi=.60 using Q′=Q/mi?","Q′=5,000 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What effective airflow results from Q=6,000 cfm and mi=1.20?","Q′=5,000 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What ACH results from 3,000 cfm effective airflow in a 12,000-ft³ room?","N=60Q′/Vr=15 ACH.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What effective airflow is required for 8 ACH in a 20,000-ft³ room?","Q′=N×Vr/60=2,666.7 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"How many ACH occur with 2,500 cfm effective airflow in a 15,000-ft³ room?","N=10 ACH.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What is the nominal one-air-change time in a 9,000-ft³ room with 1,500 cfm effective airflow?","Vr/Q′=6 minutes.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"How long does ideal purging take to reduce 4,000 ppm to 50 ppm in 9,000 ft³ with Q′=2,992 cfm?","t=−Vr/Q′ ln(C2/C1)≈1.21 min.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What concentration remains after 5 min if C0=1,000 ppm, Q′=1,000 cfm, Vr=10,000 ft³?","C=C0e^(−Q′t/Vr)=606.5 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"How long is required to reduce 2,000 ppm to 200 ppm in 12,000 ft³ at 2,000 cfm?","t≈13.82 min.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What fraction remains after three nominal air changes under ideal first-order purging?,"e^-3=4.98%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+How many nominal air changes reduce concentration to 1%?,"N=−ln(.01)=4.605 ACH-equivalents.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If target concentration is cut in half, how does required dilution airflow change?","It doubles, all else equal.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What airflow does the book's solvent-generation equation predict for SG=.81, ER=.033 pint/min, MW=72, Cg=50 ppm, and overall factor 5?","Q=14,961 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What effective airflow follows from 14,961 cfm actual airflow and K=5?","Q′≈2,992 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If target concentration changes from 50 to 25 ppm, what happens to required dilution airflow?","It doubles.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If generation rate doubles at constant target concentration, what happens to required airflow?","It doubles.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If molecular weight doubles with all other inputs fixed, what happens to required airflow in the solvent equation?","It halves.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What steady-state concentration increment results from 500 mg/min generation and 2,000 m³/min effective airflow?","C=G/Q=.25 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What generation rate produces .40 mg/m³ at 1,500 m³/min effective airflow?","G=CQ=600 mg/min.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If a source adds 30 ppm and supply air contains 20 ppm, what total steady-state concentration is predicted in the simple additive model?","50 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If supply air is 10 ppm and the source contribution is 15 ppm, what total is predicted?","25 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"A fan moves 10,000 cfm at d=10 in. What airflow is predicted at d=12 in, constant RPM, using Q∝d³?","17,280 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"A fan moves 10,000 cfm at 1,000 rpm. What airflow is predicted at 1,200 rpm, constant diameter?","12,000 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"A fan produces 2.0 in. w.g. at 1,000 rpm. What pressure is predicted at 1,200 rpm, constant diameter?","2.88 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"A fan uses 10 hp at 1,000 rpm. What power is predicted at 1,200 rpm, constant diameter?","17.28 hp.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If fan diameter rises 20% at constant RPM, by what factor does airflow change?","1.2³=1.728×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If fan diameter rises 20% at constant RPM, by what factor does pressure change?","1.2²=1.44×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If fan diameter rises 20% at constant RPM, by what factor does power change?","1.2⁵=2.488×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If RPM falls 10% at constant diameter, by what factor does airflow change?","0.90×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If RPM falls 10% at constant diameter, by what factor does pressure change?","0.81×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If RPM falls 10% at constant diameter, by what factor does power change?","0.729×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"What FSP results from SPout=2.0, SPin=−1.0, and VPin=.2 in. w.g.?","FSP=2−(−1)−.2=2.8 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What FTP results from TPout=3.5 and TPin=1.2 in. w.g.?,"FTP=2.3 in. w.g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If airflow doubles in a fixed-resistance system, what approximate pressure factor follows from P∝Q²?","Pressure rises by 4×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+"If airflow doubles in a fixed-resistance system, what approximate power factor follows from power∝Q³?","Power rises by 8×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.",CIH_Hardcore_V2 Ventilation_LEV
+What OSHA dose results from 2 h at 95 dBA plus 2 h at 90 dBA?,"D=100[(2/4)+(2/8)]=75%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 4 h at 90 dBA?,"D=50%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 1 h at 105 dBA?,"D=100%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 30 min at 110 dBA?,"D=100%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 15 min at 115 dBA?,"D=100%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA TWA corresponds to 50% dose?,"85.0 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA TWA corresponds to 100% dose?,"90.0 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA TWA corresponds to 200% dose?,"≈95.0 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What dose corresponds to 85 dBA OSHA TWA?,"≈50%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What dose corresponds to 95 dBA OSHA TWA?,"≈200%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 1 h at 100 dBA plus 2 h at 90 dBA?,"75%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+"What OSHA dose results from 0.5 h at 110, 1 h at 100, and 4 h at 90 dBA?","200%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA TWA corresponds to the preceding 200% dose?,"≈95.0 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What maximum OSHA duration is listed for 100 dBA?,"2 h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What maximum OSHA duration is listed for 105 dBA?,"1 h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What maximum OSHA duration is listed for 110 dBA?,"0.5 h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What maximum OSHA duration is listed for 115 dBA?,"0.25 h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 3 h at 90 dBA plus 2 h at 95 dBA?,"87.5%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 6 h at 85 dBA plus 2 h at 90 dBA?,"62.5%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA TWA corresponds to 62.5% dose?,"≈86.33 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA dose results from 8 h at 90 dBA?,"100%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What OSHA TWA corresponds to 150% dose?,"≈92.93 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+"What OSHA dose is associated with the 85-dBA, 8-h hearing-conservation action level?","50% dose.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+"What A-weighting correction is listed at 1,000 Hz in the book's octave table?","0 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What A-weighting correction is listed at 500 Hz?,"−3.2 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+"What A-weighting correction is listed at 2,000 Hz?","+1.2 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What A-weighted level results from 90 dB at 500 Hz using −3.2 dB correction?,"86.8 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+"What A-weighted level results from 90 dB at 2,000 Hz using +1.2 dB correction?","91.2 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What SPL results when pressure is 10× reference pressure?,"20 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What intensity level results when intensity is 100× reference intensity?,"20 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+How much does free-field SPL change when distance doubles?,"About −6.02 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+A source is 100 dBA at 2 m. What is the predicted level at 8 m?,"≈87.96 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What combined level results from two identical independent 90-dB sources?,"≈93.01 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+What combined level results from independent 80- and 83-dB sources?,"≈84.76 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.",CIH_Hardcore_V2 Noise
+"What ppm concentration results from 0.01 L contaminant in 1,000 L air?","10 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What ppm results from vapor partial pressure 0.002 atm at total pressure 1 atm?,"2,000 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"At 25°C and 1 atm, what ppm corresponds to 24.45 mg/m³ of a gas with MW 48?","≈12.45 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"At 25°C and 1 atm, what mg/m³ corresponds to 100 ppm of MW 50?","≈204.5 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"At 25°C and 1 atm, what ppm corresponds to 10 mg/m³ of MW 100?","2.445 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What molar volume does the BGC sheet use at 25°C and 1 atm?,"24.45 L/mol.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What molar volume does the book state at STP (0°C, 760 mmHg)?","22.4 L/mol.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What Celsius temperature is 86°F?,"30°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What Fahrenheit temperature is 25°C?,"77°F.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What Kelvin temperature is 27°C?,"300.15 K.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What Rankine temperature is 70°F using the BGC conversion?,"530°R.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What pressure in pascals is 1 atm?,"101,325 Pa.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What pressure in mmHg is 2 atm?,"1,520 mmHg.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What volume in liters is 1 ft³?,"28.32 L.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What mass in grams is 2 lb using the BGC conversion?,"907.2 g.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What partial pressure does a 0.25 mole fraction exert at 760 mmHg?,"190 mmHg.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What partial pressure does a 30% component exert at 2 atm?,"0.60 atm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What pH results from [H+]=10^-4 M?,"4.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What [H+] corresponds to pH 3?,"1×10^-3 M.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What pH corresponds to [H+]=10^-5 M?,"5.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What Reynolds number results for rho=1.2 kg/m³, d=.10 m, v=15 m/s, eta=1.8e-5 Pa·s?","≈100,000.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What is the arithmetic mean of 4, 6, 8, and 12?","7.5.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What is the sample SD of 2, 4, and 6?","2.0.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What is CV when SD=3 and mean=30?,"0.10, or 10%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What is the geometric mean of 1, 10, and 100?","10.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What is the geometric mean of 2 and 8?,"4.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"If P84.13=20 and GM=10, what is GSD?","2.0.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"If GM=10 and GSD=2, what is P84.13?","20.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"If GM=10 and GSD=2, what is P15.87?","5.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"If mean=100 and SD=10, what range contains approximately 95% under the ±2SD rule?","80 to 120.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"If CVtotal=.10, what SAE follows SAE=1.645CVtotal?","0.1645.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What 8-h TWA results from 2 h at 5 mg/m³ and 6 h at 1 mg/m³?,"2.0 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What 8-h TWA results from 4 h at 50 ppm and 4 h at 0 ppm?,"25 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What 8-h TWA results from 1 h at 80, 2 h at 20, and 5 h at 0 mg/m³?","15 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What concentration results from 2.4 mg collected over 240 L?,"10 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What volume is collected at 2.0 L/min for 120 min?,"240 L.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What volume is collected at 1.5 L/min for 8 h?,"720 L, or 0.720 m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+How much contaminant is collected when 30 mL solution contains 15 mg/mL?,"450 mg.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What dilution factor results when 10 mL is diluted to 250 mL?,"25×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What original concentration corresponds to 4 mg/L after a 25× dilution?,"100 mg/L.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What vapor/hazard ratio results from 2,000 ppm saturation concentration and 100 ppm guideline?","20.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What additive mixture hazard index results from C1=2/TLV1=10 and C2=5/TLV2=20?,"0.45.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What additive mixture hazard index results from 6/10 plus 8/20?,"1.0.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+What mixture TLV results from equal fractions of two substances with equal TLVs of 10 mg/m³?,"10 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 General_Science_Exposure
+"What pooled SD results from SD1=4, SD2=6, n1=n2=10?","≈5.10.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"What t statistic results from means 30 and 24, pooled SD 5, n1=n2=25?","≈8.49.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"What t statistic results from means 100 and 90, pooled SD 10, n1=16, n2=25?","≈2.60.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"What GM results from exposure results 1, 4, 16, and 64?","8.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If log10 mean=1.5, what is GM?","≈31.62.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If GM=20 and GSD=2.5, what is P84.13?","50.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If GM=20 and GSD=2.5, what is P15.87?","8.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If P84.13=60 and P15.87=15, what is GSD?","2.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If P84.13=80 and P50=20, what is GSD?","4.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If mean=25 and SD=5, what is CV percentage?","20%.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If CVtotal=.08, what SAE follows SAE=1.645CVtotal?","0.1316.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If standardized concentration X/limit=1.05, what is X when the limit is 100 ppm?","105 ppm.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If X/limit=1.20 and SAE=.10, what simplified LCL results?","1.10.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If X/limit=.90 and SAE=.10, what simplified LCL results?","0.80.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If LCL>1 under the book's OSHA method, what conclusion is indicated?","Overexposure/violation is supported.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If UCL<1 under the book's OSHA method, what conclusion is indicated?","Overexposure/violation is not supported.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If LCL<1 and UCL>1, how is the result classified?","Possible overexposure.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+What combined error results from independent errors .10 and .20?,"0.2236.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"What combined error results from independent errors .10, .15, and .20?","≈0.2693.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+"If GSD=1.0, what does it imply?","No environmental variability.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Statistics_Evaluation
+What indoor/no-solar WBGT results from Tnwb=25°C and Tg=35°C?,"28.0°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"What outdoor/solar WBGT results from Tnwb=25°C, Tg=35°C, Tdb=30°C?","27.5°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What indoor WBGT results from Tnwb=22°C and Tg=30°C?,"24.4°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"What outdoor WBGT results from Tnwb=24°C, Tg=32°C, Tdb=34°C?","26.8°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What 1-h TWA WBGT results from 30 min at 30°C and 30 min at 20°C?,"25°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What 1-h TWA WBGT results from 20 min at 32°C and 40 min at 22°C?,"25.33°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What adjusted WBGT results from measured 28°C and clothing adjustment +5°C?,"33°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What adjusted WBGT results from measured 27°C and clothing adjustment +8°C?,"35°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What TWA metabolic rate results from 400 W/m² for 15 min and 200 W/m² for 45 min?,"250 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What TWA metabolic rate results from 350 W/m² for 20 min and 150 W/m² for 40 min?,"216.67 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What TWA-WBGT results from 32°C for 20 min and 22°C for 40 min?,"25.33°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"What net heat-storage rate results from M=500, W=0, C=−50, R=100, E=400 W/m²?","150 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"If evaporative cooling rises by 100 W/m², how does heat storage change?","It decreases by 100 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"If metabolic heat rises by 50 W/m², how does heat storage change?","It increases by 50 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"If radiation adds 75 W/m² net heat gain, how does storage change?","It increases by 75 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"If convection removes 100 W/m², how does storage change?","It decreases by 100 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What adjusted WBGT results from measured 30°C and clothing adjustment −1°C?,"29°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What 1-h TWA WBGT results from 34°C for 10 min and 24°C for 50 min?,"25.67°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What TWA metabolic rate results from 450 W/m² for 10 min and 150 W/m² for 50 min?,"200 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+"If adjusted WBGT is 33°C and criterion is 30°C, by what percentage is it above criterion?","10%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; current ACGIH Heat Stress and Strain guidance; book topic: 5th ed., pp.327–356.",CIH_Hardcore_V2 Thermal_Stress
+What intensity remains at 2 m if it is 100 units at 1 m?,"25 units.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What intensity occurs at 2 m if it is 200 units at 4 m?,"800 units.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+How far from a point source gives 1/16 the intensity at 1 m?,"4 m.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+"If intensity falls from 900 to 100 units, by what factor did distance increase?","3×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What activity remains after two half-lives from 800 Bq?,"200 Bq.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+"What activity remains after five half-lives from 3,200 Bq?","100 Bq.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What fraction remains after three half-lives?,"12.5%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+How many half-lives reduce activity to 6.25%?,"4 half-lives.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What fraction remains after 24 years if half-life is 8 years?,"12.5%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+"What activity remains after 35 days from 1,000 kBq if half-life is 10 days?","≈88.39 kBq.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What decay constant corresponds to a 10-year half-life?,"0.0693 yr⁻¹.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What decay constant corresponds to a 30-day half-life?,"0.0231 day⁻¹.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What activity remains after 10 days if A0=500 Bq and lambda=.1 day⁻¹?,"≈183.94 Bq.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What dose results from 2 mSv/h for 3 h?,"6 mSv.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What average dose rate delivers 10 mSv in 4 h?,"2.5 mSv/h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What is 1 Gy in rad?,"100 rad.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What is 1 Sv in rem?,"100 rem.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What disintegrations/s correspond to 2.5 Ci?,"9.25×10¹⁰ disintegrations/s.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What dpm correspond to 3 Ci?,"6.6×10¹² dpm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What activity remains after one half-life from 750 Bq?,"375 Bq.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What dose rate is expected at 10 m if it is 400 µSv/h at 2 m?,"16 µSv/h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What dose rate is expected at 2 m if it is 16 µSv/h at 10 m?,"400 µSv/h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What dose is received from 30 min at 100 µSv/h plus 90 min at 20 µSv/h?,"80 µSv.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What average dose rate corresponds to 2 mSv in 30 min?,"4 mSv/h.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+"If intensity is reduced 100× by distance alone, by what factor must distance increase?","10×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet p.3; book topic: 5th ed., pp.257–326.",CIH_Hardcore_V2 Radiation
+What volume is collected at 2.5 L/min for 90 min?,"225 L.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What concentration results from 5 mg in 500 L of air?,"10 mg/m³.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What mass is collected at 4 mg/m³ over .750 m³?,"3 mg.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What volume is collected at 1.8 L/min for 240 min?,"432 L.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What concentration results from .12 mg collected over 24 L?,"5 mg/m³.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What midpoint average flow follows from initial 2.0 and final 2.2 L/min?,"2.1 L/min.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What volume is collected at 2.1 L/min for 240 min?,"504 L.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What total mass is 1.5 mg front plus .10 mg backup?,"1.60 mg.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What backup percentage is .20 mg of a 2.00-mg total?,"10%.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What corrected mass corresponds to 9 mg measured at 90% recovery?,"10 mg.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What blank-corrected mass results from 2.0 mg sample and .20 mg blank?,"1.80 mg.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What concentration results from 1.8 mg over .600 m³?,"3.0 mg/m³.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What MUC results from APF=10 and limit=5 ppm?,"50 ppm.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What in-facepiece concentration is estimated for 200 ppm ambient and APF=10?,"20 ppm.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+"If required PF is 25 and available APF is 10, is the simple APF comparison sufficient?","No; 10 is below 25.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What minimum PF is required for 150 ppm exposure and desired 5 ppm inside-mask concentration?,"30.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What PF is required for 40 ppm exposure and 2 ppm limit?,"20.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What percentage of intended volume is obtained if 432 L is collected instead of 480 L?,"90%.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What simplified LCL results from ratio .90 and SAE .15?,"0.75.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+What simplified LCL results from ratio 1.20 and SAE .15?,"1.05.
+
+Reference: Modern equation sheet: BGC 2026 p.2; book topic: 5th ed., pp.487–521, 523–584, 667–725.",CIH_Hardcore_V2 Sampling_Analytical_Respirators
+"What is the 8-h TWA for 75 ppm for 2 h, 25 ppm for 4 h, and 0 ppm for 2 h?","31.25 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What OSHA dose results from 2 h at 90 dBA and 1 h at 100 dBA?,"75%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What ACH results in a 20×30×10-ft room with 3,000 cfm effective airflow?","30 ACH.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What airflow is required for 30 ACH in a 6,000-ft³ room?","3,000 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What total concentration is predicted from a 600-ppm·cfm source contribution, 3,000 cfm effective airflow, and 10 ppm supply concentration?","10.2 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What is the TWA and exposure/limit ratio for 2 h at 10 mg/m³ and 6 h at 4 mg/m³ with a 5-mg/m³ limit?,"TWA=5.5 mg/m³; ratio=1.10.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What level is predicted at 4 m from a source producing 90 dB at 1 m?,"≈77.96 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What activity remains from 2,400 Bq after 18 h with a 6-h half-life?","300 Bq.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"At 25°C, what ppm corresponds to 50 mg/m³ of MW=100?","12.225 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What sample volume in m³ results from 2.2 L/min for 7.5 h?,"0.990 m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What concentration results from 4.95 mg collected in .990 m³?,"5.0 mg/m³.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What mixed concentration results from 500 cfm at 300 ppm plus 1,500 cfm at 100 ppm?","150 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What TWA metabolic rate results from 400 W/m² for 15 min and 200 W/m² for 45 min in the integrated problem set?,"250 W/m².
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What adjusted WBGT results from measured 26°C and clothing adjustment +3.5°C?,"29.5°C.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What concentration remains after 5 min in a 10,000-ft³ room with Q′=2,000 cfm starting at 800 ppm?","≈294.3 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+How long does that room take to fall from 800 to 80 ppm?,"≈11.51 min.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What simplified LCL results from ratio 1.30 and SAE .20?,"1.10.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What OSHA TWA corresponds to 95% dose?,"≈89.65 dBA.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What combined level results from independent 80- and 83-dB sources in the integrated problem set?,"≈84.76 dB.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What ppm corresponds to vapor partial pressure 15 mmHg at 760 mmHg total?,"≈19,737 ppm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What dose results from 100 µSv/h for .5 h plus 20 µSv/h for 1.5 h?,"80 µSv.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+"What airflow is required for 0.75 ft² opening at 1,000 fpm?","750 cfm.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What fan pressure factor results from increasing RPM 20% at constant diameter?,"1.44×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What fan power factor results from increasing RPM 20% at constant diameter?,"1.728×.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
+What percent above a 30°C criterion is an adjusted WBGT of 33°C?,"10%.
+
+Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.",CIH_Hardcore_V2 Integrated_Problem_Solving
