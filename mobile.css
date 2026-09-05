@@ -1,0 +1,33 @@
+@media(max-width:520px){
+html,body{height:100%;overflow:hidden}
+body{min-height:100dvh}
+main{height:100dvh;max-height:100dvh;padding:9px 12px 10px;display:flex;flex-direction:column;overflow:hidden}
+header{flex:0 0 auto;margin-bottom:6px;align-items:center}
+h1{font-size:18px;margin-bottom:2px}.sub{font-size:11px}
+header>button{min-height:36px;padding:7px 11px}
+.stats{flex:0 0 auto;gap:5px;margin:5px 0 6px}
+.pill{padding:5px 8px;font-size:10px}
+.progressbar{flex:0 0 auto;height:5px;margin:0 0 7px}
+.controls{flex:0 0 auto;padding:8px;margin-bottom:7px;border-radius:12px}
+.controls .row{gap:5px}
+.controls .row:first-child{display:grid;grid-template-columns:auto minmax(0,1fr) auto minmax(0,1fr) auto minmax(0,1fr);align-items:center}
+.controls .row:first-child label{font-size:10px}
+.controls .row:first-child select{width:100%;min-width:0;padding:6px 7px;font-size:12px}
+.controls .row:nth-child(2){margin-top:6px!important}
+.controls .row:nth-child(2) label{font-size:10px}
+.controls .row:nth-child(2) select{min-width:0;padding:6px 7px;font-size:12px}
+.controls .row:nth-child(2) button{min-height:34px;padding:6px 9px;font-size:12px;white-space:nowrap}
+.controls .small{display:none}
+.card{flex:1 1 auto;min-height:0;height:auto;padding:12px;border-radius:14px;overflow:hidden}
+.card>div:first-child{min-height:0;overflow:hidden;display:flex;flex-direction:column}
+.meta{font-size:10px;margin-bottom:8px;flex:0 0 auto}
+.front{font-size:19px;line-height:1.25;max-height:42%;overflow:auto;flex:0 0 auto}
+.answer{font-size:14px;line-height:1.35;margin-top:10px;padding-top:10px;min-height:0;overflow:auto;flex:1}
+.reveal{margin-top:8px;min-height:40px;padding:8px 10px;font-size:14px}
+.ratings{grid-template-columns:repeat(4,1fr);gap:6px;margin-top:6px}
+.ratings button{min-height:40px;padding:7px 4px;font-size:13px}
+.nextinfo{font-size:10px;min-height:14px;margin-top:4px}
+#cardArea>div:last-child{flex:0 0 auto}
+#cardArea .ratings[hidden]{display:none}
+details{display:none}
+}
