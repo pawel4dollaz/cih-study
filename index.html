@@ -295,7 +295,7 @@ document.getElementById("focus").addEventListener("change",e=>{state.focus=e.tar
 document.getElementById("newBlockBtn").addEventListener("click",startBlock);
 document.getElementById("revealBtn").addEventListener("click",()=>{revealed=true;renderCard()});
 document.querySelectorAll("[data-rating]").forEach(b=>{b.disabled=true;b.addEventListener("click",()=>rate(Number(b.dataset.rating)))});
-document.getElementById("resetBtn").addEventListener("click",()=>{if(confirm("Reset all saved FSRS progress for this app?")){state={...state,cards:{},session:0,block:[],blockPos:0};save();currentId=null;renderCard();renderStats()}});
+document.getElementById("resetBtn").addEventListener("click",()=>{if(confirm("Reset all saved FSRS progress for this app?")){state={...state,cards:{},history:[],session:0,block:[],blockPos:0};save();currentId=null;renderCard();renderStats()}});
 document.getElementById("exportBtn").addEventListener("click",exportProgress);
 document.getElementById("importProxy").addEventListener("click",()=>document.getElementById("importFile").click());
 document.getElementById("importFile").addEventListener("change",e=>{if(e.target.files[0])importProgress(e.target.files[0])});
