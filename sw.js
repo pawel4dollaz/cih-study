@@ -1,5 +1,5 @@
-const CACHE = 'cih-study-v3';
-const APP_SHELL = ['./','./index.html','./mobile.css','./manifest.json'];
+const CACHE = 'cih-study-v4';
+const APP_SHELL = ['./','./index.html','./mobile.css','./manifest.json','./analytics.js'];
 const FSRS_URL = 'https://cdn.jsdelivr.net/npm/ts-fsrs@5.4.2/+esm';
 const FSRS_HOST = 'cdn.jsdelivr.net';
 const FSRS_PREFIX = '/npm/ts-fsrs@5.4.2/';
