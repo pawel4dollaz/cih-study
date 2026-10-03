@@ -1039,7 +1039,7 @@ Reference: p. 634 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 634 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls Calculation V3_Atomic","V3 — Atomic Flashcards"
-"Using Q=14,961 ft³/min, K=5, Vr=9,000 ft³, and C₀=4,000 ppm, how long to reach 50 ppm after release stops?","Q′≈2,992 ft³/min; t = −Vr/Q′ ln(50/4000) ≈ 13.2 min.
+"With Q=14,961 ft³/min, K=5, Vr=9,000 ft³, C₀=4,000 ppm, how long to reach 50 ppm?","Q′≈2,992 ft³/min; t = −Vr/Q′ ln(50/4000) ≈ 13.2 min.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1709,22 +1709,22 @@ Reference: p. 514 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 531 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"A filter collects 6 mg of contaminant while 1.20 m³ of air is sampled. What is the airborne concentration?","C = 6 mg/1.20 m³ = 5.0 mg/m³.
+"6 mg collected from 1.20 m³ of air: what is the concentration?","C = 6 mg/1.20 m³ = 5.0 mg/m³.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 523 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"A personal sample is collected at a fixed location 20 ft from the worker. Is it automatically representative of the worker's exposure?","No. The book identifies personal sampling in the breathing zone as preferred because fixed-location conditions may differ from those experienced by the worker.
+"Is a fixed-location sample 20 ft from a worker automatically representative of personal exposure?","No. The book identifies personal sampling in the breathing zone as preferred because fixed-location conditions may differ from those experienced by the worker.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 523 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A sampling method is consistently 15% high because the calibration is wrong. Is this primarily an accuracy or precision problem?","Accuracy. The systematic bias moves results away from the true value.
+"Calibration error makes results consistently 15% high. Is this an accuracy or precision problem?","Accuracy. The systematic bias moves results away from the true value.
 
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 510 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is Repeated samples fluctuate widely because workplace concentrations vary from day to day. Is this primarily random variability or systematic bias?","Random/environmental variability; it affects precision rather than creating a consistent bias.
+"Repeated samples vary widely day to day. Is this random variability or systematic bias?","Random/environmental variability; it affects precision rather than creating a consistent bias.
 
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
@@ -1734,12 +1734,12 @@ Reference: pp. 510, 997 — Fundamentals of Industrial Hygiene, 5th ed. (2002)."
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 998 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"If an exposure dataset is positively skewed with a long high-concentration tail, what distribution is a reasonable starting assumption for repeated workplace exposure data?","A lognormal distribution.
+"For positively skewed workplace exposure data, what distribution is a reasonable starting assumption?","A lognormal distribution.
 
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 995 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A contaminant has a TLV-TWA of 10 ppm and a measured 8-h TWA of 8 ppm, but a 15-min exposure reaches 15 ppm. What additional criterion must be checked?","The applicable TLV-STEL or ceiling criterion; being below the TWA does not by itself rule out a short-term overexposure.
+"TWA=8 ppm vs TLV-TWA=10 ppm; a 15-min exposure reaches 15 ppm. What additional limit must be checked?","The applicable TLV-STEL or ceiling criterion; being below the TWA does not by itself rule out a short-term overexposure.
 
 Example: Apply it when interpreting exposure criteria and communicating chemical hazards.
 
@@ -1754,17 +1754,17 @@ Reference: pp. 24, 139 — Fundamentals of Industrial Hygiene, 5th ed. (2002).",
 Example: Apply it when interpreting exposure criteria and communicating chemical hazards.
 
 Reference: p. 488 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_RiskAnalysis INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A dense vapor leak occurs in a large quantity from a compressed-gas source. Is a floor-level hood potentially useful?","Yes, a substantial dense-gas/vapor release can form a ground-hugging plume, making low-level capture potentially advantageous.
+"A large compressed-gas dense-vapor leak occurs. Could a floor-level hood help?","Yes, a substantial dense-gas/vapor release can form a ground-hugging plume, making low-level capture potentially advantageous.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 620 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A small amount of a dense solvent vapor is present at 1,000 ppm. Should you assume it will all remain on the floor because it is denser than air?","No. At such dilute concentrations, the vapor-air mixture density is close to that of air and random air currents can disperse it.
+"At 1,000 ppm, should a dense solvent vapor be assumed to stay at floor level?","No. At such dilute concentrations, the vapor-air mixture density is close to that of air and random air currents can disperse it.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 620 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A hood captures dust poorly because the worker stands between the source and hood. What design principle has been violated?","The hood should be positioned so the contaminant is moved away from the operator's breathing zone before capture.
+"Dust capture fails when the worker stands between source and hood. Which hood principle is violated?","The hood should be positioned so the contaminant is moved away from the operator's breathing zone before capture.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1774,32 +1774,32 @@ Reference: p. 595 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 596 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A particulate LEV duct operates at 1,000 ft/min and material is settling. What fundamental design issue should be investigated?","Insufficient transport velocity; the book cites roughly 3,000–4,000 ft/min as a common minimum range for ordinary dusts.
+"Dust settles in an LEV duct at 1,000 fpm. What design issue should be investigated?","Insufficient transport velocity; the book cites roughly 3,000–4,000 ft/min as a common minimum range for ordinary dusts.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"If an LEV duct diameter is reduced while airflow remains constant, what happens to average duct velocity?","It increases because the same airflow passes through a smaller cross-sectional area.
+"At constant flow, what happens to average velocity when LEV duct diameter decreases?","It increases because the same airflow passes through a smaller cross-sectional area.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: pp. 623–624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"If an LEV duct diameter is reduced while airflow remains constant, what happens qualitatively to pressure loss?","It increases because the higher velocity produces greater friction and pressure losses, potentially increasing fan power requirements.
+"At constant flow, what happens to pressure loss when duct diameter decreases?","It increases because the higher velocity produces greater friction and pressure losses, potentially increasing fan power requirements.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A process emits contaminant continuously but only a small number of workers are near the source. Which ventilation approach is generally favored?","Local exhaust ventilation, because it captures the contaminant at the source and generally needs less airflow than dilution.
+"A continuous source affects few nearby workers. Which ventilation approach is favored?","Local exhaust ventilation, because it captures the contaminant at the source and generally needs less airflow than dilution.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 595 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A spill has stopped and the remaining room concentration is 4,000 ppm. If effective ventilation Q′ doubles, what happens to the time needed to reach a specified lower concentration?","It is approximately halved, because t is proportional to 1/Q′ in the exponential purging relationship.
+"After a spill, room concentration is 4,000 ppm. If Q′ doubles, what happens to purge time?","It is approximately halved, because t is proportional to 1/Q′ in the exponential purging relationship.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 634 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"For the book's dilution equation, if the target concentration L is cut in half while everything else remains constant, what happens to required Q?","Q doubles, because Q is inversely proportional to L.
+"In the dilution equation, what happens to required Q when target concentration L is halved?","Q doubles, because Q is inversely proportional to L.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1824,12 +1824,12 @@ Reference: p. 329 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating a hot-work task, clothing, and workload.
 
 Reference: p. 329; pp. 333–335 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_ThermalStress INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A worker's one-minute recovery heart rate is 105 bpm. How does that compare with the book's cited HRR1 criterion for effective heat-stress control?","It is below the cited criterion of 110 bpm.
+"HRR₁=105 bpm. How does it compare with the book’s 110-bpm criterion?","It is below the cited criterion of 110 bpm.
 
 Example: Apply it when evaluating a hot-work task, clothing, and workload.
 
 Reference: p. 342 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_ThermalStress INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A worker is exposed to 90 dBA for 4 h and 95 dBA for 2 h. What is the OSHA mixed dose using the book's table?","4/8 + 2/4 = 1.0, or 100% dose.
+"At 90 dBA for 4 h plus 95 dBA for 2 h, what is OSHA mixed dose using the book’s table?","4/8 + 2/4 = 1.0, or 100% dose.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
@@ -1849,7 +1849,7 @@ Reference: p. 220 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 220 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"An employee has normal hearing in one ear and 100% impairment in the other. What binaural impairment does the book's AMA example produce?","17%: [(5×0%) + 100%]/6 = 16.7%, rounded to 17%.
+"One ear has normal hearing; the other has 100% impairment. What binaural impairment does the book’s AMA example give?","17%: [(5×0%) + 100%]/6 = 16.7%, rounded to 17%.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
@@ -1884,7 +1884,7 @@ Reference: p. 127 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it to interpret how a hazardous agent may affect a worker after exposure.
 
 Reference: p. 127 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Toxicology INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"A training course gives employees information but does not change behavior because the issue is lack of motivation. Is training alone likely to solve the problem?","No. The chapter states training can address lack of knowledge or incorrect knowledge, but not effectively a lack of motivation or attention.
+"Training does not change behavior because motivation is lacking. Is training alone likely to solve it?","No. The chapter states training can address lack of knowledge or incorrect knowledge, but not effectively a lack of motivation or attention.
 
 Example: Apply it when planning, documenting, or evaluating an industrial hygiene program.
 
@@ -2039,7 +2039,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book to
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"What airflow does the book's solvent-generation equation predict for SG=.81, ER=.033 pint/min, MW=72, Cg=50 ppm, and overall factor 5?","Q=14,961 cfm.
+"For SG=0.81, ER=0.033 pint/min, MW=72, Cg=50 ppm, factor=5, what airflow is predicted?","Q=14,961 cfm.
 
 Application: Use the result to check a ventilation design or operating condition.
 
@@ -2059,12 +2059,12 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book to
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"If molecular weight doubles with all other inputs fixed, what happens to required airflow in the solvent equation?","It halves.
+"If MW doubles with other solvent-equation inputs fixed, what happens to required airflow?","It halves.
 
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"What steady-state concentration increment results from 500 mg/min generation and 2,000 m³/min effective airflow?","C=G/Q=.25 mg/m³.
+"With G=500 mg/min and Q′=2,000 m³/min, what steady-state concentration increment results?","C=G/Q=.25 mg/m³.
 
 Application: Use the result to check a ventilation design or operating condition.
 
@@ -2074,7 +2074,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book to
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"If a source adds 30 ppm and supply air contains 20 ppm, what total steady-state concentration is predicted in the simple additive model?","50 ppm.
+"Supply air=20 ppm and source adds 30 ppm. What is total steady-state concentration?","50 ppm.
 
 Application: Use the result to check a ventilation design or operating condition.
 
@@ -2149,7 +2149,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book to
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"If airflow doubles in a fixed-resistance system, what approximate power factor follows from power∝Q³?","Power rises by 8×.
+"If airflow doubles in a fixed-resistance system, what power factor follows from P∝Q³?","Power rises by 8×.
 
 Application: Use the result to check a ventilation design or operating condition.
 
@@ -2989,12 +2989,12 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.","CIH_EngineeringControls Integrated_Problem_Solving V3_Atomic","V3 — Atomic Flashcards"
-"What total concentration is predicted from a 600-ppm·cfm source contribution, 3,000 cfm effective airflow, and 10 ppm supply concentration?","10.2 ppm.
+"Source contribution=600 ppm·cfm, Q′=3,000 cfm, supply=10 ppm. What is total concentration?","10.2 ppm.
 
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.","CIH_EngineeringControls Integrated_Problem_Solving V3_Atomic","V3 — Atomic Flashcards"
-"What is the TWA and exposure/limit ratio for 2 h at 10 mg/m³ and 6 h at 4 mg/m³ with a 5-mg/m³ limit?","TWA=5.5 mg/m³; ratio=1.10.
+"For 2 h at 10 mg/m³ and 6 h at 4 mg/m³, calculate TWA and ratio to 5 mg/m³.","TWA=5.5 mg/m³; ratio=1.10.
 
 Application: Use the result to compare a measured exposure with its applicable criterion.
 
@@ -3029,7 +3029,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.","CIH_EngineeringControls Integrated_Problem_Solving V3_Atomic","V3 — Atomic Flashcards"
-"What TWA metabolic rate results from 400 W/m² for 15 min and 200 W/m² for 45 min in the integrated problem set?","250 W/m².
+"Metabolic rate: 400 W/m² for 15 min, 200 W/m² for 45 min. Find the 1-h TWA.","250 W/m².
 
 Application: Use the result to evaluate the stated heat-stress condition.
 
@@ -3564,7 +3564,7 @@ Reference: pp. 527–531 — Fundamentals of Industrial Hygiene, 5th ed. (2002).
 Example: Airflow and gravity separate particles of different aerodynamic sizes.
 
 Reference: pp. 527–531 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling V3_Atomic","V3 — Atomic Flashcards"
-"Which engineering-control strategy replaces a hazardous material or process with a less hazardous one?","Substitution.
+"Which engineering-control strategy replaces a hazard with a less hazardous option?","Substitution.
 
 Example: Replace a high-volatility solvent with a suitable lower-volatility alternative.
 
