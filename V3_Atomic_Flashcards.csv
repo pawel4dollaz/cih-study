@@ -319,11 +319,11 @@ Reference: pp. 88–97 — Fundamentals of Industrial Hygiene, 5th ed. (2002).",
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 97 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise V3_Atomic","V3 — Atomic Flashcards"
-"At what 8-hour TWA noise exposure does this edition state OSHA hearing conservation requirements apply?","85 dBA.
+"At what 8-hour TWA noise level does OSHA’s hearing-conservation program begin?","85 dBA as an 8-hour time-weighted average triggers the OSHA hearing-conservation program requirements.
 
-Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
+Example: A worker exposed at or above this level is within the hearing-conservation program threshold.
 
-Reference: p. 97 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise V3_Atomic","V3 — Atomic Flashcards"
+Reference: OSHA 29 CFR 1910.95(b)(1).","CIH_Noise V3_Atomic","V3 — Atomic Flashcards"
 "What is the key distinction between conductive and sensorineural loss?","Conductive loss involves sound transmission through the external/middle ear; sensorineural loss involves inner-ear or neural dysfunction.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
@@ -554,7 +554,7 @@ Reference: p. 224 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 224 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What OSHA noise dose results from 3.75 h at 85 dBA, 2 h at 90 dBA, 2 h at 95 dBA, and 0.25 h at 110 dBA using the book's table?","125% dose, so the mixed exposure exceeds the allowable limit.
+"What OSHA dose results from 3.75 h at 85, 2 h at 90, 2 h at 95, and 0.25 h at 110 dBA?","125% dose, so the mixed exposure exceeds the allowable limit.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
@@ -659,7 +659,7 @@ Reference: p. 329 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating a hot-work task, clothing, and workload.
 
 Reference: p. 329 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_ThermalStress Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is the result for indoor WBGT when natural wet-bulb temperature is 25°C and globe temperature is 35°C?","WBGT = 0.7(25) + 0.3(35) = 17.5 + 10.5 = 28.0°C.
+"What is indoor WBGT for Tnwb=25°C and Tg=35°C?","WBGT = 0.7(25) + 0.3(35) = 17.5 + 10.5 = 28.0°C.
 
 Example: Apply it when evaluating a hot-work task, clothing, and workload.
 
@@ -989,7 +989,7 @@ Reference: pp. 623–624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls V3_Atomic","V3 — Atomic Flashcards"
-"What is the result for the centerline velocity for the book's flanged-hood example: Q=500 cfm, X=0.5 ft, A=0.22 ft², using Q=0.75Vx(10X²+A)?","Vx = 500/[0.75(10×0.5²+0.22)] ≈ 245 ft/min.
+"What centerline velocity follows for Q=500 cfm, X=0.5 ft, A=0.22 ft² using Q=0.75Vx(10X²+A)?","Vx = 500/[0.75(10×0.5²+0.22)] ≈ 245 ft/min.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1039,7 +1039,7 @@ Reference: p. 634 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 634 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is Using Q=14,961 ft³/min, K=5, Vr=9,000 ft³, and C₀=4,000 ppm, how long to reach 50 ppm after release stops?","Q′≈2,992 ft³/min; t = −Vr/Q′ ln(50/4000) ≈ 13.2 min.
+"Using Q=14,961 ft³/min, K=5, Vr=9,000 ft³, and C₀=4,000 ppm, how long to reach 50 ppm after release stops?","Q′≈2,992 ft³/min; t = −Vr/Q′ ln(50/4000) ≈ 13.2 min.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1369,9 +1369,79 @@ Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling V3_Atomic","V3 — Atomic Flashcards"
-"What are common subcategories of an IH program listed in the book?","Health/safety policy, management responsibilities, hazard communication, chemical/equipment authorization, exposure assessment, ventilation, IAQ, ergonomics, radiation, hearing conservation, toxic gases, biohazards, PPE, emergency response, inspections/audits, and related areas.
+"Which IH program element establishes health and safety policy?","Health and safety policy.
 
-Example: Apply it when planning, documenting, or evaluating an industrial hygiene program.
+Example: A written policy defines the program’s scope and commitments.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element assigns leadership duties and accountability?","Management responsibilities.
+
+Example: A manager is assigned responsibility for correcting exposure-control deficiencies.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element communicates chemical hazards to workers?","Hazard communication.
+
+Example: Workers receive hazard information before using a new chemical.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element governs approval of chemicals and equipment?","Chemical/equipment authorization.
+
+Example: A new solvent is reviewed before being introduced to a process.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element characterizes worker exposures?","Exposure assessment.
+
+Example: Personal sampling is planned for a similar exposure group.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element addresses capture and removal of airborne contaminants?","Ventilation.
+
+Example: A hood is inspected to confirm it captures the contaminant.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element addresses indoor environmental conditions?","Indoor air quality (IAQ).
+
+Example: Investigate complaints associated with a building ventilation system.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element evaluates ergonomic risk factors?","Ergonomics.
+
+Example: Assess force, repetition, posture, and recovery time.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element addresses ionizing or nonionizing sources?","Radiation safety.
+
+Example: Assess exposure near an industrial radiography source.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element addresses occupational sound exposure?","Hearing conservation.
+
+Example: Monitor noise and track audiometric results.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element addresses toxic gas hazards?","Toxic-gas hazard management.
+
+Example: Assess a potential gas release and the need for detection or control.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element addresses workplace biological agents?","Biohazard management.
+
+Example: Evaluate aerosol and contact pathways during a biological task.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element governs personal protective equipment?","PPE management.
+
+Example: Select gloves based on chemical compatibility and breakthrough data.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program element prepares for unexpected harmful releases?","Emergency response.
+
+Example: Plan for a loss of containment or an accidental release.
+
+Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH program activity checks conditions and program implementation?","Inspections and audits.
+
+Example: Document a control deficiency and track corrective action.
 
 Reference: p. 796 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
 "Why is audit follow-up essential?","Without action plans, progress reports, or follow-up audits, much of the audit's value can be lost.
@@ -1439,7 +1509,7 @@ Reference: pp. 807–823 — Fundamentals of Industrial Hygiene, 5th ed. (2002).
 Example: Apply it when planning, documenting, or evaluating an industrial hygiene program.
 
 Reference: pp. 825–827 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
-"What federal agency was created by the OSHAct to administer and enforce occupational safety and health standards?","The Occupational Safety and Health Administration (OSHA).
+"Which federal agency administers and enforces OSHA standards?","The Occupational Safety and Health Administration (OSHA).
 
 Example: Apply it when planning, documenting, or evaluating an industrial hygiene program.
 
@@ -1614,7 +1684,7 @@ Reference: p. 997 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 997 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi APP_D V3_Atomic","V3 — Atomic Flashcards"
-"What approximate fraction of measurements fall within ±2 CV of the true mean for a nonvarying property?","About 95%.
+"For a nonvarying property, what fraction falls within ±2 CV of the mean?","About 95%.
 
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
@@ -1624,32 +1694,32 @@ Reference: p. 997 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 996 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise APP_D Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A worker has 50 ppm exposure for 2 h and 0 ppm for 6 h. What is the 8-h TWA?","TWA = [(50×2)+(0×6)]/8 = 12.5 ppm.
+"A worker has 50 ppm exposure for 2 h and 0 ppm for 6 h. What is the 8-h TWA?","TWA = [(50×2)+(0×6)]/8 = 12.5 ppm.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 514 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A worker has 100 ppm exposure for 30 min in an 8-h shift and 0 ppm otherwise. What is the 8-h TWA?","TWA = 100×0.5/8 = 6.25 ppm.
+"A worker has 100 ppm exposure for 30 min in an 8-h shift and 0 ppm otherwise. What is the 8-h TWA?","TWA = 100×0.5/8 = 6.25 ppm.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 514 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A pump runs at 2.5 L/min for 480 min. What volume of air is sampled?","V = 2.5×480 = 1,200 L = 1.20 m³.
+"A pump runs at 2.5 L/min for 480 min. What volume of air is sampled?","V = 2.5×480 = 1,200 L = 1.20 m³.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 531 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A filter collects 6 mg of contaminant while 1.20 m³ of air is sampled. What is the airborne concentration?","C = 6 mg/1.20 m³ = 5.0 mg/m³.
+"A filter collects 6 mg of contaminant while 1.20 m³ of air is sampled. What is the airborne concentration?","C = 6 mg/1.20 m³ = 5.0 mg/m³.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 523 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A personal sample is collected at a fixed location 20 ft from the worker. Is it automatically representative of the worker's exposure?","No. The book identifies personal sampling in the breathing zone as preferred because fixed-location conditions may differ from those experienced by the worker.
+"A personal sample is collected at a fixed location 20 ft from the worker. Is it automatically representative of the worker's exposure?","No. The book identifies personal sampling in the breathing zone as preferred because fixed-location conditions may differ from those experienced by the worker.
 
 Example: Apply it when planning or reviewing a personal air sample.
 
 Reference: p. 523 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_AirSampling INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A sampling method is consistently 15% high because the calibration is wrong. Is this primarily an accuracy or precision problem?","Accuracy. The systematic bias moves results away from the true value.
+"A sampling method is consistently 15% high because the calibration is wrong. Is this primarily an accuracy or precision problem?","Accuracy. The systematic bias moves results away from the true value.
 
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
@@ -1669,7 +1739,7 @@ Reference: p. 998 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 995 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A contaminant has a TLV-TWA of 10 ppm and a measured 8-h TWA of 8 ppm, but a 15-min exposure reaches 15 ppm. What additional criterion must be checked?","The applicable TLV-STEL or ceiling criterion; being below the TWA does not by itself rule out a short-term overexposure.
+"A contaminant has a TLV-TWA of 10 ppm and a measured 8-h TWA of 8 ppm, but a 15-min exposure reaches 15 ppm. What additional criterion must be checked?","The applicable TLV-STEL or ceiling criterion; being below the TWA does not by itself rule out a short-term overexposure.
 
 Example: Apply it when interpreting exposure criteria and communicating chemical hazards.
 
@@ -1679,22 +1749,22 @@ Reference: p. 24 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_R
 Example: Apply it when interpreting exposure criteria and communicating chemical hazards.
 
 Reference: pp. 24, 139 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_RiskAnalysis INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A chemical has no OSHA PEL, NIOSH REL, or ACGIH TLV. What information sources can an IH use?","Internal exposure guidelines, toxicology data, literature, health surveys, manufacturer information, and other credible sources; the book emphasizes using the best available information.
+"A chemical has no OSHA PEL, NIOSH REL, or ACGIH TLV. What information sources can an IH use?","Internal exposure guidelines, toxicology data, literature, health surveys, manufacturer information, and other credible sources; the book emphasizes using the best available information.
 
 Example: Apply it when interpreting exposure criteria and communicating chemical hazards.
 
 Reference: p. 488 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_RiskAnalysis INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A dense vapor leak occurs in a large quantity from a compressed-gas source. Is a floor-level hood potentially useful?","Yes, a substantial dense-gas/vapor release can form a ground-hugging plume, making low-level capture potentially advantageous.
+"A dense vapor leak occurs in a large quantity from a compressed-gas source. Is a floor-level hood potentially useful?","Yes, a substantial dense-gas/vapor release can form a ground-hugging plume, making low-level capture potentially advantageous.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 620 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A small amount of a dense solvent vapor is present at 1,000 ppm. Should you assume it will all remain on the floor because it is denser than air?","No. At such dilute concentrations, the vapor-air mixture density is close to that of air and random air currents can disperse it.
+"A small amount of a dense solvent vapor is present at 1,000 ppm. Should you assume it will all remain on the floor because it is denser than air?","No. At such dilute concentrations, the vapor-air mixture density is close to that of air and random air currents can disperse it.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 620 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A hood captures dust poorly because the worker stands between the source and hood. What design principle has been violated?","The hood should be positioned so the contaminant is moved away from the operator's breathing zone before capture.
+"A hood captures dust poorly because the worker stands between the source and hood. What design principle has been violated?","The hood should be positioned so the contaminant is moved away from the operator's breathing zone before capture.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1704,7 +1774,7 @@ Reference: p. 595 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 596 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A particulate LEV duct operates at 1,000 ft/min and material is settling. What fundamental design issue should be investigated?","Insufficient transport velocity; the book cites roughly 3,000–4,000 ft/min as a common minimum range for ordinary dusts.
+"A particulate LEV duct operates at 1,000 ft/min and material is settling. What fundamental design issue should be investigated?","Insufficient transport velocity; the book cites roughly 3,000–4,000 ft/min as a common minimum range for ordinary dusts.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1719,22 +1789,22 @@ Reference: pp. 623–624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 624 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A process emits contaminant continuously but only a small number of workers are near the source. Which ventilation approach is generally favored?","Local exhaust ventilation, because it captures the contaminant at the source and generally needs less airflow than dilution.
+"A process emits contaminant continuously but only a small number of workers are near the source. Which ventilation approach is generally favored?","Local exhaust ventilation, because it captures the contaminant at the source and generally needs less airflow than dilution.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 595 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A spill has stopped and the remaining room concentration is 4,000 ppm. If effective ventilation Q′ doubles, what happens to the time needed to reach a specified lower concentration?","It is approximately halved, because t is proportional to 1/Q′ in the exponential purging relationship.
+"A spill has stopped and the remaining room concentration is 4,000 ppm. If effective ventilation Q′ doubles, what happens to the time needed to reach a specified lower concentration?","It is approximately halved, because t is proportional to 1/Q′ in the exponential purging relationship.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 634 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is For the book's dilution equation, if the target concentration L is cut in half while everything else remains constant, what happens to required Q?","Q doubles, because Q is inversely proportional to L.
+"For the book's dilution equation, if the target concentration L is cut in half while everything else remains constant, what happens to required Q?","Q doubles, because Q is inversely proportional to L.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
 Reference: p. 633 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_EngineeringControls INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is For the book's dilution equation, if the safety factor K rises from 3 to 6, what happens to Q?","Q doubles, because Q is directly proportional to K.
+"For the book's dilution equation, if the safety factor K rises from 3 to 6, what happens to Q?","Q doubles, because Q is directly proportional to K.
 
 Example: Apply it when evaluating capture, airflow, or contaminant control at a workplace source.
 
@@ -1754,17 +1824,17 @@ Reference: p. 329 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Apply it when evaluating a hot-work task, clothing, and workload.
 
 Reference: p. 329; pp. 333–335 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_ThermalStress INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A worker's one-minute recovery heart rate is 105 bpm. How does that compare with the book's cited HRR1 criterion for effective heat-stress control?","It is below the cited criterion of 110 bpm.
+"A worker's one-minute recovery heart rate is 105 bpm. How does that compare with the book's cited HRR1 criterion for effective heat-stress control?","It is below the cited criterion of 110 bpm.
 
 Example: Apply it when evaluating a hot-work task, clothing, and workload.
 
 Reference: p. 342 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_ThermalStress INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A worker is exposed to 90 dBA for 4 h and 95 dBA for 2 h. What is the OSHA mixed dose using the book's table?","4/8 + 2/4 = 1.0, or 100% dose.
+"A worker is exposed to 90 dBA for 4 h and 95 dBA for 2 h. What is the OSHA mixed dose using the book's table?","4/8 + 2/4 = 1.0, or 100% dose.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 224 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A worker is exposed to 100 dBA for 2 h and 110 dBA for 0.5 h. What is the OSHA mixed dose?","2/2 + 0.5/0.5 = 2.0, or 200% dose.
+"A worker is exposed to 100 dBA for 2 h and 110 dBA for 0.5 h. What is the OSHA mixed dose?","2/2 + 0.5/0.5 = 2.0, or 200% dose.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
@@ -1774,17 +1844,17 @@ Reference: p. 225 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 220 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A sound level meter is used for an OSHA compliance measurement. Should it use fast or slow response?","Slow response.
+"A sound level meter is used for an OSHA compliance measurement. Should it use fast or slow response?","Slow response.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 220 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is An employee has normal hearing in one ear and 100% impairment in the other. What binaural impairment does the book's AMA example produce?","17%: [(5×0%) + 100%]/6 = 16.7%, rounded to 17%.
+"An employee has normal hearing in one ear and 100% impairment in the other. What binaural impairment does the book's AMA example produce?","17%: [(5×0%) + 100%]/6 = 16.7%, rounded to 17%.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 96 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise INTEGRATED Calculation V3_Atomic","V3 — Atomic Flashcards"
-"What is A 100% binaural hearing impairment in the book's example translates to what whole-person impairment?","The example's 17% binaural impairment translates to 6% whole-person impairment.
+"A 100% binaural hearing impairment in the book's example translates to what whole-person impairment?","The example's 17% binaural impairment translates to 6% whole-person impairment.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
@@ -1814,7 +1884,7 @@ Reference: p. 127 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it to interpret how a hazardous agent may affect a worker after exposure.
 
 Reference: p. 127 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Toxicology INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"What is A training course gives employees information but does not change behavior because the issue is lack of motivation. Is training alone likely to solve the problem?","No. The chapter states training can address lack of knowledge or incorrect knowledge, but not effectively a lack of motivation or attention.
+"A training course gives employees information but does not change behavior because the issue is lack of motivation. Is training alone likely to solve the problem?","No. The chapter states training can address lack of knowledge or incorrect knowledge, but not effectively a lack of motivation or attention.
 
 Example: Apply it when planning, documenting, or evaluating an industrial hygiene program.
 
@@ -2014,22 +2084,22 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book to
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"What is A fan moves 10,000 cfm at d=10 in. What airflow is predicted at d=12 in, constant RPM, using Q∝d³?","17,280 cfm.
+"A fan moves 10,000 cfm at d=10 in. What airflow is predicted at d=12 in, constant RPM, using Q∝d³?","17,280 cfm.
 
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"What is A fan moves 10,000 cfm at 1,000 rpm. What airflow is predicted at 1,200 rpm, constant diameter?","12,000 cfm.
+"A fan moves 10,000 cfm at 1,000 rpm. What airflow is predicted at 1,200 rpm, constant diameter?","12,000 cfm.
 
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"What is A fan produces 2.0 in. w.g. at 1,000 rpm. What pressure is predicted at 1,200 rpm, constant diameter?","2.88 in. w.g.
+"A fan produces 2.0 in. w.g. at 1,000 rpm. What pressure is predicted at 1,200 rpm, constant diameter?","2.88 in. w.g.
 
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"What is A fan uses 10 hp at 1,000 rpm. What power is predicted at 1,200 rpm, constant diameter?","17.28 hp.
+"A fan uses 10 hp at 1,000 rpm. What power is predicted at 1,200 rpm, constant diameter?","17.28 hp.
 
 Application: Use the result to check a ventilation design or operating condition.
 
@@ -2239,7 +2309,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 
 Application: Use the result to evaluate the stated noise exposure under the specified criterion.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet p.2; OSHA 29 CFR 1910.95 App. A; book topic: 5th ed., pp.207–224.","CIH_Noise Noise V3_Atomic","V3 — Atomic Flashcards"
-"What is A source is 100 dBA at 2 m. What is the predicted level at 8 m?","≈87.96 dBA.
+"A source is 100 dBA at 2 m. What is the predicted level at 8 m?","≈87.96 dBA.
 
 Application: Use the result to evaluate the stated noise exposure under the specified criterion.
 
