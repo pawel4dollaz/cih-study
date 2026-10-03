@@ -1734,12 +1734,12 @@ Reference: pp. 510, 997 — Fundamentals of Industrial Hygiene, 5th ed. (2002)."
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 998 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"For positively skewed workplace exposure data, what distribution is a reasonable starting assumption?","A lognormal distribution.
+"What distribution is a reasonable starting assumption for positively skewed exposure data?","A lognormal distribution.
 
 Example: Use it when interpreting variability or uncertainty in workplace measurements.
 
 Reference: p. 995 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_BiostatsEpi INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"TWA=8 ppm vs TLV-TWA=10 ppm; a 15-min exposure reaches 15 ppm. What additional limit must be checked?","The applicable TLV-STEL or ceiling criterion; being below the TWA does not by itself rule out a short-term overexposure.
+"TWA=8 ppm; TLV-TWA=10 ppm; 15-min result=15 ppm. What additional limit should be checked?","The applicable TLV-STEL or ceiling criterion; being below the TWA does not by itself rule out a short-term overexposure.
 
 Example: Apply it when interpreting exposure criteria and communicating chemical hazards.
 
@@ -1849,7 +1849,7 @@ Reference: p. 220 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
 Reference: p. 220 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Noise INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"One ear has normal hearing; the other has 100% impairment. What binaural impairment does the book’s AMA example give?","17%: [(5×0%) + 100%]/6 = 16.7%, rounded to 17%.
+"With 0% impairment in one ear and 100% in the other, what binaural impairment does the book’s AMA example give?","17%: [(5×0%) + 100%]/6 = 16.7%, rounded to 17%.
 
 Example: Use it when evaluating workplace noise exposure or a hearing-conservation program.
 
@@ -1884,7 +1884,7 @@ Reference: p. 127 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_
 Example: Use it to interpret how a hazardous agent may affect a worker after exposure.
 
 Reference: p. 127 — Fundamentals of Industrial Hygiene, 5th ed. (2002).","CIH_Toxicology INTEGRATED V3_Atomic","V3 — Atomic Flashcards"
-"Training does not change behavior because motivation is lacking. Is training alone likely to solve it?","No. The chapter states training can address lack of knowledge or incorrect knowledge, but not effectively a lack of motivation or attention.
+"If motivation is the barrier, is training alone likely to change behavior?","No. The chapter states training can address lack of knowledge or incorrect knowledge, but not effectively a lack of motivation or attention.
 
 Example: Apply it when planning, documenting, or evaluating an industrial hygiene program.
 
@@ -2094,7 +2094,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book to
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet (2026), pp.2–3; book topic: Fundamentals of Industrial Hygiene, 5th ed., pp.607–642.","CIH_EngineeringControls Ventilation_LEV V3_Atomic","V3 — Atomic Flashcards"
-"A fan produces 2.0 in. w.g. at 1,000 rpm. What pressure is predicted at 1,200 rpm, constant diameter?","2.88 in. w.g.
+"Fan pressure=2.0 in. w.g. at 1,000 rpm. What is pressure at 1,200 rpm (same diameter)?","2.88 in. w.g.
 
 Application: Use the result to check a ventilation design or operating condition.
 
@@ -2994,7 +2994,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.","CIH_EngineeringControls Integrated_Problem_Solving V3_Atomic","V3 — Atomic Flashcards"
-"For 2 h at 10 mg/m³ and 6 h at 4 mg/m³, calculate TWA and ratio to 5 mg/m³.","TWA=5.5 mg/m³; ratio=1.10.
+"What are the TWA and exposure/limit ratio for 2 h at 10 mg/m³ and 6 h at 4 mg/m³ (limit=5 mg/m³)?","TWA=5.5 mg/m³; ratio=1.10.
 
 Application: Use the result to compare a measured exposure with its applicable criterion.
 
@@ -3029,7 +3029,7 @@ Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th
 Application: Use the result to check a ventilation design or operating condition.
 
 Reference: Modern formula: BGC 2026 CIH Equation Sheet pp.2–3; book topic: 5th ed., pp.149–206, 487–521, Appendix D.","CIH_EngineeringControls Integrated_Problem_Solving V3_Atomic","V3 — Atomic Flashcards"
-"Metabolic rate: 400 W/m² for 15 min, 200 W/m² for 45 min. Find the 1-h TWA.","250 W/m².
+"What is the 1-h TWA metabolic rate for 400 W/m² over 15 min and 200 W/m² over 45 min?","250 W/m².
 
 Application: Use the result to evaluate the stated heat-stress condition.
 
