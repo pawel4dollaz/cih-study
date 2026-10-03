@@ -1,0 +1,181 @@
+Front,Back,Tags,Deck
+"Which IH step identifies hazards before a new process begins?","Anticipation — identify potential hazards before work starts.
+Example: Review a proposed solvent-cleaning task before commissioning it.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), p. 3.","CH01 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Which IH step measures or estimates worker exposure?","Evaluation — characterize exposure using observations, sampling, and analysis.
+Example: Collect a personal air sample during solvent cleaning.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), pp. 3, 20–24.","CH01 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"What is the inhalation route of exposure?","An airborne agent enters through the respiratory tract.
+Example: A worker breathes welding fume.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), p. 20.","CH01 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"What does dermal exposure mean?","An agent contacts the skin and may be absorbed through it.
+Example: Solvent splashes onto an unprotected hand.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), p. 20.","CH01 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"What does dose–response describe?","How the magnitude or probability of an effect changes with dose.
+Example: Compare effects across increasing exposure levels.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 2, pp. 35–50.","CH02 CIH_Toxicology V3_Atomic","V3 — Atomic Flashcards"
+"What is an acute toxic effect?","An effect associated with short exposure or rapid onset.
+Example: Dizziness shortly after a high solvent-vapor exposure.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 2, pp. 35–50.","CH02 CIH_Toxicology V3_Atomic","V3 — Atomic Flashcards"
+"What is a biological exposure pathway?","The route by which a biological agent reaches a person.
+Example: Aerosolized material reaches a worker’s respiratory tract.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 3, pp. 51–82.","CH03 CIH_Biohazards V3_Atomic","V3 — Atomic Flashcards"
+"What is the purpose of containment for a biological hazard?","Prevent the agent from escaping into the worker’s or surrounding environment.
+Example: Use an appropriate biological safety cabinet for an aerosol-generating task.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 3, pp. 51–82.","CH03 CIH_Biohazards V3_Atomic","V3 — Atomic Flashcards"
+"What does vapor pressure indicate?","A substance’s tendency to enter the vapor phase at a given temperature.
+Example: A more volatile solvent generally has higher vapor pressure at the same temperature.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 4, pp. 83–98.","CH04 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"What does ppm express for a gas concentration?","Parts of contaminant per million parts of the mixture, on the specified basis.
+Example: 10 ppm by volume means 10 volume units per million volume units of air.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 4, pp. 83–98.","CH04 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"Why wear a personal air sampler in the breathing zone?","To estimate a worker’s airborne exposure during the sampled period.
+Example: Attach it near the collar while the worker performs the task.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 5, pp. 99–122.","CH05 CIH_AirSampling V3_Atomic","V3 — Atomic Flashcards"
+"How do you calculate sampled air volume at constant flow?","Volume = flow rate × sampling time, using consistent units.
+Example: 2 L/min × 30 min = 60 L.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 5, pp. 99–122.","CH05 CIH_AirSampling V3_Atomic","V3 — Atomic Flashcards"
+"Why check pump flow after sampling?","To detect flow changes that could affect the calculated air volume.
+Example: Review a large pre/post difference against the method’s acceptance criteria.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 6, pp. 123–148.","CH06 CIH_AirSampling V3_Atomic","V3 — Atomic Flashcards"
+"What is breakthrough in sorbent-tube sampling?","Analyte passes beyond the intended collection section, suggesting collection capacity may have been exceeded.
+Example: A backup tube captures analyte that passed through the primary tube.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 6, pp. 123–148.","CH06 CIH_AirSampling V3_Atomic","V3 — Atomic Flashcards"
+"Why use calibration standards in chemical analysis?","To relate instrument response to known analyte amounts or concentrations.
+Example: A calibration curve converts detector response into sample concentration.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 7, pp. 149–168.","CH07 CIH_AnalyticalChemistry V3_Atomic","V3 — Atomic Flashcards"
+"What does a method blank help detect?","Contamination or interference contributed by the analytical procedure and reagents.
+Example: Process blank media through extraction without a field sample.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 7, pp. 149–168.","CH07 CIH_AnalyticalChemistry V3_Atomic","V3 — Atomic Flashcards"
+"What is the primary purpose of local exhaust ventilation?","Capture contaminants near their source before they disperse into the workplace.
+Example: A hood captures welding fume close to the arc.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 8, pp. 169–206.","CH08 CIH_EngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"What is capture velocity?","Air velocity at a point outside a hood needed to draw a contaminant into it.
+Example: Assess airflow where the contaminant is released, not only inside the duct.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 8, pp. 169–206.","CH08 CIH_EngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"What does Q = VA express in ventilation?","Volume flow rate equals average air velocity multiplied by cross-sectional area.
+Example: If area halves while flow stays constant, average velocity doubles.
+Reference: Current BGC CIH equation sheet; *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 9.","CH09 CIH_EngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"Why provide make-up air to a space with substantial exhaust?","To replace exhausted air and limit unwanted pressure imbalance.
+Example: Supply tempered outdoor air to a room with large LEV exhaust.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 9, pp. 207–256.","CH09 CIH_EngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"Why can’t decibel levels be arithmetically averaged?","Decibels are logarithmic, so independent sound levels must be combined energetically.
+Example: Two equal independent sound sources add about 3 dB.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 10, pp. 257–280.","CH10 CIH_Noise V3_Atomic","V3 — Atomic Flashcards"
+"What does noise dose compare?","Accumulated exposure durations at different levels relative to allowed durations under the selected criterion.
+Example: Add the fractions of allowable time spent at each level.
+Reference: OSHA 29 CFR 1910.95, Appendix A; use the applicable criterion.","CH10 CIH_Noise V3_Atomic","V3 — Atomic Flashcards"
+"What distinguishes ionizing from nonionizing radiation?","Ionizing radiation has enough energy to remove electrons from atoms or molecules.
+Example: X-rays are ionizing; visible light is nonionizing.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 11, pp. 281–326.","CH11 CIH_Radiation V3_Atomic","V3 — Atomic Flashcards"
+"What is the SI unit of absorbed radiation dose?","The gray (Gy), equal to one joule of absorbed energy per kilogram.
+Example: 1 Gy = 100 rad.
+Reference: Current BGC CIH equation sheet; *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 11.","CH11 CIH_Radiation V3_Atomic","V3 — Atomic Flashcards"
+"What does WBGT help assess?","Environmental heat stress; interpretation also depends on workload, clothing, and work/rest pattern.
+Example: A hot, humid task with heavy work needs more than a dry-bulb temperature check.
+Reference: Current ACGIH guidance and BGC CIH equation sheet; *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 12.","CH12 CIH_ThermalStress V3_Atomic","V3 — Atomic Flashcards"
+"Which WBGT equation applies outdoors with solar load?","WBGT = 0.7 natural wet-bulb + 0.2 globe + 0.1 dry-bulb temperature.
+Example: Include all three terms when solar load is present.
+Reference: Current BGC CIH equation sheet.","CH12 CIH_ThermalStress V3_Atomic","V3 — Atomic Flashcards"
+"What does standard deviation describe?","The spread of observations around their arithmetic mean.
+Example: Two groups can have the same mean but different standard deviations.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 13, pp. 357–418.","CH13 CIH_BiostatsEpi V3_Atomic","V3 — Atomic Flashcards"
+"What does a confidence interval communicate?","A range generated by a method designed to cover the target parameter at a stated long-run rate under its assumptions.
+Example: A 95% confidence procedure has 95% coverage over repeated samples under those assumptions.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 13, pp. 357–418.","CH13 CIH_BiostatsEpi V3_Atomic","V3 — Atomic Flashcards"
+"What is the difference between a hazard and a risk?","A hazard is a potential source of harm; risk considers likelihood and severity in context.
+Example: A corrosive liquid is hazardous; risk depends partly on the chance and consequences of contact.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 14, pp. 419–486.","CH14 CIH_RiskAnalysis V3_Atomic","V3 — Atomic Flashcards"
+"What is the purpose of a safety data sheet?","Communicate chemical hazards, handling and storage precautions, exposure controls, and emergency measures.
+Example: Consult the exposure-controls section when planning protection for a chemical task.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 14; verify current requirements separately.","CH14 CIH_RiskAnalysis V3_Atomic","V3 — Atomic Flashcards"
+"What is a key limitation of relying only on PPE?","PPE does not eliminate the hazard and depends on correct selection, fit, use, and maintenance.
+Example: A respirator does not stop a solvent leak from contaminating the work area.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 15, pp. 487–522.","CH15 CIH_NonEngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"What does an assigned protection factor describe?","Expected respiratory protection under the conditions and program assumptions in applicable guidance.
+Example: A nominal APF does not compensate for misuse or a deficient program.
+Reference: Current respiratory-protection guidance; *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 15.","CH15 CIH_NonEngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"What is a neutral posture?","A posture that keeps joints near their mid-range and avoids unnecessary musculoskeletal loading.
+Example: Adjust a workstation to avoid persistently bent wrists.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 16, pp. 523–560.","CH16 CIH_Ergonomics V3_Atomic","V3 — Atomic Flashcards"
+"Why does repetition matter in ergonomic risk assessment?","Repeated motion can increase cumulative tissue loading, especially with force or awkward posture.
+Example: Frequent forceful gripping with a deviated wrist raises concern.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 16, pp. 523–560.","CH16 CIH_Ergonomics V3_Atomic","V3 — Atomic Flashcards"
+"What does an environmental exposure pathway connect?","A source, a transport medium or route, and a receptor.
+Example: Stack emission → outdoor air → nearby resident.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 17, pp. 561–584.","CH17 CIH_CommunityExposure V3_Atomic","V3 — Atomic Flashcards"
+"Why can a full-shift average hide a relevant exposure peak?","A time average can conceal short-duration concentrations that matter for acute effects or peak-based limits.
+Example: A brief release may be obscured by an eight-hour average.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 17, pp. 561–584.","CH17 CIH_CommunityExposure V3_Atomic","V3 — Atomic Flashcards"
+"What is the purpose of a job hazard analysis?","Break a task into steps, identify hazards at each step, and determine controls.
+Example: Assess setup, operation, jam clearing, and maintenance separately.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 18, pp. 585–606.","CH18 CIH_WorkEnvironments V3_Atomic","V3 — Atomic Flashcards"
+"Why assess non-routine tasks separately?","They may create exposure patterns not represented by routine operations.
+Example: Maintenance can expose workers to residues or hazards inside equipment.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 18, pp. 585–606.","CH18 CIH_WorkEnvironments V3_Atomic","V3 — Atomic Flashcards"
+"What is a similar exposure group (SEG)?","Workers expected to have comparable exposure profiles because tasks, materials, controls, and work patterns are similar.
+Example: Workers performing the same welding task under similar conditions may form an SEG.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 19, pp. 607–630.","CH19 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Why document the rationale for sampling decisions?","To make the assessment transparent, reproducible, and defensible.
+Example: Record why particular workers, shifts, and tasks were selected.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 19, pp. 607–630.","CH19 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"What is an administrative exposure control?","A work-practice or organizational measure that changes how, when, or how long people are exposed.
+Example: Schedule appropriate recovery periods during hot work.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 20, pp. 631–642.","CH20 CIH_NonEngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"Why is exposure monitoring not itself an exposure control?","Monitoring characterizes exposure; a control changes or prevents exposure.
+Example: Sampling identifies a problem; enclosure or LEV reduces the release.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 20, pp. 631–642.","CH20 CIH_NonEngineeringControls V3_Atomic","V3 — Atomic Flashcards"
+"What does analytical precision describe?","The closeness of agreement among repeated measurements under specified conditions.
+Example: Replicate results tightly clustered together show good precision, even if biased.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 21, pp. 643–666.","CH21 CIH_AnalyticalChemistry V3_Atomic","V3 — Atomic Flashcards"
+"What does recovery measure in an analytical method?","The proportion of analyte recovered compared with the amount expected or added.
+Example: Recovering 8 mg from a 10 mg spike gives 80% recovery.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 21, pp. 643–666.","CH21 CIH_AnalyticalChemistry V3_Atomic","V3 — Atomic Flashcards"
+"What does the ideal gas law relate?","Pressure, volume, amount of gas, and absolute temperature: PV = nRT.
+Example: At fixed amount and volume, increasing absolute temperature increases pressure.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 22, pp. 667–726.","CH22 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"Why use absolute temperature in gas-law calculations?","Gas-law relationships use temperature measured from absolute zero.
+Example: Convert °C to K before applying PV = nRT.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 22, pp. 667–726.","CH22 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"Why observe actual work practices during an IH survey?","Actual practices and workarounds may differ from written procedures.
+Example: A worker may open a guard for a task not covered by the standard procedure.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 23, pp. 727–742.","CH23 CIH_WorkEnvironments V3_Atomic","V3 — Atomic Flashcards"
+"What should you check first after an unexpected sampling result?","Review task representativeness, sampling conditions, controls, and data quality before concluding.
+Example: Verify pump-flow records and whether the sampled task was typical.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 23, pp. 727–742.","CH23 CIH_WorkEnvironments V3_Atomic","V3 — Atomic Flashcards"
+"What does a leading indicator measure in an IH program?","A preventive activity or condition intended to signal performance before adverse outcomes occur.
+Example: Percentage of scheduled LEV inspections completed on time.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 24, pp. 743–764.","CH24 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Why verify controls after implementation?","To confirm exposure was actually reduced and the control remains effective.
+Example: Repeat representative exposure measurements after a ventilation modification.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 24, pp. 743–764.","CH24 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"What is the inverse-square relationship for an unshielded point source?","Intensity varies inversely with distance squared: I₂ = I₁(d₁/d₂)², under point-source assumptions.
+Example: Doubling distance reduces intensity to one-quarter.
+Reference: Current BGC CIH equation sheet; *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 25.","CH25 CIH_Radiation V3_Atomic","V3 — Atomic Flashcards"
+"What is the SI unit of equivalent dose?","The sievert (Sv).
+Example: 1 Sv = 100 rem.
+Reference: Current BGC CIH equation sheet; *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 25.","CH25 CIH_Radiation V3_Atomic","V3 — Atomic Flashcards"
+"What does pH measure?","The negative base-10 logarithm of hydrogen-ion activity; introductory calculations often approximate this using concentration.
+Example: A one-unit pH decrease corresponds to tenfold higher hydrogen-ion activity.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 26, pp. 775–792.","CH26 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"What does specific gravity compare?","A material’s density with that of a reference substance, commonly water for liquids and solids.
+Example: A liquid with specific gravity 0.8 is less dense than water under stated conditions.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 26, pp. 775–792.","CH26 CIH_BasicScience V3_Atomic","V3 — Atomic Flashcards"
+"Why does recovery time matter in repetitive work?","Recovery allows fatigued tissues to restore capacity and may reduce cumulative loading.
+Example: Breaks interrupt prolonged repetitive hand work.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 27, pp. 793–806.","CH27 CIH_Ergonomics V3_Atomic","V3 — Atomic Flashcards"
+"What should an ergonomic intervention target?","Task conditions driving risk, such as force, repetition, awkward posture, or duration.
+Example: Redesign a handle to reduce grip force rather than only reminding workers to be careful.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 27, pp. 793–806.","CH27 CIH_Ergonomics V3_Atomic","V3 — Atomic Flashcards"
+"Why include maintenance and cleaning in an IH process review?","These activities can create exposures that differ from normal production.
+Example: Vessel cleaning may expose workers to concentrated residues.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 28, pp. 807–824.","CH28 CIH_WorkEnvironments V3_Atomic","V3 — Atomic Flashcards"
+"What is a task-based exposure assessment?","An assessment focused on exposure during a defined task rather than only the full shift.
+Example: Measure a brief powder-dumping task that may create a dust peak.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 28, pp. 807–824.","CH28 CIH_WorkEnvironments V3_Atomic","V3 — Atomic Flashcards"
+"Why assign an owner and due date to an IH recommendation?","To make implementation accountable and trackable.
+Example: Assign a responsible engineer to correct a failed hood inspection by a defined date.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 29, pp. 825–892.","CH29 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
+"Why distinguish a completed action from an effective action?","Completion confirms implementation; effectiveness confirms the hazard or exposure was adequately reduced.
+Example: A hood may be installed but still capture contaminants poorly.
+Reference: *Fundamentals of Industrial Hygiene*, 5th ed. (2002), Chapter 29, pp. 825–892.","CH29 CIH_IHProgram V3_Atomic","V3 — Atomic Flashcards"
