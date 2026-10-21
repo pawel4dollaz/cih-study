@@ -1,0 +1,145 @@
+Front,Back,Tags,Deck
+"At 25°C and 1 atm, approximately how many mg/m³ is 10 ppm of a gas with MW 44?
+
+A. 4.5
+B. 18.0
+C. 44
+D. 90","B. 18.0 mg/m³.
+mg/m³ = ppm × MW / 24.45 = 10×44/24.45 = 18.0. Assumes 25°C and 1 atm.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_BasicScience V4_CalculationMCQ","V4 — Calculation MCQ"
+"A duct carries 1,200 cfm through 2 ft². What is average velocity?
+
+A. 60 fpm
+B. 240 fpm
+C. 600 fpm
+D. 2,400 fpm","C. 600 fpm.
+V = Q/A = 1,200/2 = 600 fpm.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_EngineeringControls V4_CalculationMCQ","V4 — Calculation MCQ"
+"A worker is exposed to 50 ppm for 2 h and 10 ppm for 6 h. What is the 8-h TWA?
+
+A. 10 ppm
+B. 20 ppm
+C. 30 ppm
+D. 60 ppm","B. 20 ppm.
+TWA = (50×2 + 10×6)/8 = 160/8 = 20 ppm.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_IHProgram V4_CalculationMCQ","V4 — Calculation MCQ"
+"Two independent sound sources each produce 90 dB. What is their combined level?
+
+A. 90 dB
+B. 93 dB
+C. 96 dB
+D. 180 dB","B. 93 dB.
+Ltotal = 10 log₁₀(10^(90/10)+10^(90/10)) = 90 + 10 log₁₀2 = 93.01 dB.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_Noise V4_CalculationMCQ","V4 — Calculation MCQ"
+"A radionuclide has a 5-year half-life. What fraction remains after 15 years?
+
+A. 50%
+B. 25%
+C. 12.5%
+D. 6.25%","C. 12.5%.
+15/5 = 3 half-lives; remaining fraction = (1/2)³ = 12.5%.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_Radiation V4_CalculationMCQ","V4 — Calculation MCQ"
+"A respirator APF is 10 and ambient concentration is 150 ppm. Estimated in-facepiece concentration under the APF model?
+
+A. 1.5 ppm
+B. 15 ppm
+C. 140 ppm
+D. 1,500 ppm","B. 15 ppm.
+Estimated concentration = ambient/APF = 150/10 = 15 ppm. APF is not a guarantee; proper selection and fit remain essential.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_NonEngineeringControls V4_CalculationMCQ","V4 — Calculation MCQ"
+"A pump runs at 2.5 L/min for 160 min. What volume is sampled?
+
+A. 40 L
+B. 64 L
+C. 400 L
+D. 4,000 L","C. 400 L.
+Volume = flow × time = 2.5×160 = 400 L = 0.400 m³.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_AirSampling V4_CalculationMCQ","V4 — Calculation MCQ"
+"The base-10 log mean of measurements is 2. What is the geometric mean?
+
+A. 2
+B. 10
+C. 100
+D. 200","C. 100.
+GM = 10^(mean log₁₀) = 10² = 100.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_BiostatsEpi V4_CalculationMCQ","V4 — Calculation MCQ"
+"For indoor WBGT without direct solar load, Tnwb = 25°C and Tg = 31°C. What is WBGT?
+
+A. 25.0°C
+B. 26.8°C
+C. 28.0°C
+D. 31.0°C","B. 26.8°C.
+WBGT = 0.7Tnwb + 0.3Tg = 0.7×25 + 0.3×31 = 26.8°C. Outdoor solar-load formula differs.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_ThermalStress V4_CalculationMCQ","V4 — Calculation MCQ"
+"Two contaminants have C₁/TLV₁ = 0.30 and C₂/TLV₂ = 0.55. What is the additive mixture index?
+
+A. 0.25
+B. 0.55
+C. 0.85
+D. 1.65","C. 0.85.
+HI = Σ(Cᵢ/TLVᵢ) = 0.30 + 0.55 = 0.85, assuming additive effects are appropriate.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_RiskAnalysis V4_CalculationMCQ","V4 — Calculation MCQ"
+"A worker weighing 75 kg absorbs 30 mg of an agent. What is dose in mg/kg?
+
+A. 0.4
+B. 2.5
+C. 30
+D. 2,250","A. 0.4 mg/kg.
+Dose = absorbed mass/body mass = 30/75 = 0.4 mg/kg.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_Toxicology V4_CalculationMCQ","V4 — Calculation MCQ"
+"A 1:100 dilution is followed by a 1:10 dilution. What is the overall dilution factor?
+
+A. 10-fold
+B. 100-fold
+C. 1,000-fold
+D. 10,000-fold","C. 1,000-fold.
+Sequential dilution factors multiply: 100×10 = 1,000; final concentration is 1/1,000 of original.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_Biohazards V4_CalculationMCQ","V4 — Calculation MCQ"
+"A worker lifts 12 kg where the calculated recommended weight limit (RWL) is 15 kg. What is the lifting index?
+
+A. 0.80
+B. 1.25
+C. 3.0
+D. 27","A. 0.80.
+LI = load/RWL = 12/15 = 0.80. Assumes the RWL was calculated correctly for the task.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_Ergonomics V4_CalculationMCQ","V4 — Calculation MCQ"
+"A process emits 900 g of dust over 3 hours. What is average emission rate?
+
+A. 30 g/h
+B. 300 g/h
+C. 900 g/h
+D. 2,700 g/h","B. 300 g/h.
+Rate = mass/time = 900/3 = 300 g/h.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_WorkEnvironments V4_CalculationMCQ","V4 — Calculation MCQ"
+"A calibration curve is y = 2.5x + 0.5. If instrument response y = 10.5, what is x?
+
+A. 2
+B. 4
+C. 4.4
+D. 27","B. 4.
+x = (y−0.5)/2.5 = (10.5−0.5)/2.5 = 4.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_AnalyticalChemistry V4_CalculationMCQ","V4 — Calculation MCQ"
+"A population of 2,400 has 12 new cases in one year. What is annual incidence per 1,000, assuming all are at risk?
+
+A. 0.5
+B. 5
+C. 12
+D. 50","B. 5 cases per 1,000.
+(12/2,400)×1,000 = 5 per 1,000 people in one year.
+
+Reference: Original CIH-style practice problem; calculation independently checked.","CIH_CommunityExposure V4_CalculationMCQ","V4 — Calculation MCQ"
