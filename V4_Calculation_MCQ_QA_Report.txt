@@ -1,0 +1,6 @@
+V4 Calculation MCQ Deck QA Report
+Cards: 16
+Rubric categories represented: 16 of 16: CIH_BasicScience, CIH_EngineeringControls, CIH_IHProgram, CIH_Noise, CIH_Radiation, CIH_NonEngineeringControls, CIH_AirSampling, CIH_BiostatsEpi, CIH_ThermalStress, CIH_RiskAnalysis, CIH_Toxicology, CIH_Biohazards, CIH_Ergonomics, CIH_WorkEnvironments, CIH_AnalyticalChemistry, CIH_CommunityExposure
+Format: Four A–D options per question; keyed answer appears among options; worked calculation included.
+Arithmetic QA: 16/16 independent recalculations matched expected values within 0.02. Topics include ppm conversion, ventilation velocity, TWA, sound-level addition, half-life, respirator APF, sample volume, geometric mean, indoor WBGT, additive mixture index, toxicological dose, dilution, lifting index, emission rate, calibration curve, and community incidence.
+Assumptions are stated on relevant cards. These are original practice questions, not official BGC questions.
